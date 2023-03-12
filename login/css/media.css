@@ -1,0 +1,8 @@
+@media (max-width: 1250px) {
+    .card {
+        width: calc(50% - 26px);
+    }
+    .submit {
+        display: none;
+    }
+}
